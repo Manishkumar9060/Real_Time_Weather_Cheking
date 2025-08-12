@@ -17,7 +17,8 @@ The program displays temperature, weather conditions, and location details based
 - **API:** [OpenWeatherMap API](https://openweathermap.org/api)  
 
 ## Example
-<img width="1087" height="574" alt="image" src="https://github.com/user-attachments/assets/6b5c1dda-faf7-4c55-8dde-c6c0b8f5a579" />
+<img width="752" height="780" alt="image" src="https://github.com/user-attachments/assets/8194b8c7-ea57-4d83-8a1e-f699996f0e14" />
+
 
 ## 📂 Installation
 ```bash
