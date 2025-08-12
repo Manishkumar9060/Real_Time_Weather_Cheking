@@ -16,10 +16,12 @@ The program displays temperature, weather conditions, and location details based
 - **Libraries:** `requests`, `json`  
 - **API:** [OpenWeatherMap API](https://openweathermap.org/api)  
 
+## Example
+<img width="1087" height="574" alt="image" src="https://github.com/user-attachments/assets/6b5c1dda-faf7-4c55-8dde-c6c0b8f5a579" />
+
 ## 📂 Installation
 ```bash
 pip install requests
 
-## Example
-<img width="1087" height="574" alt="image" src="https://github.com/user-attachments/assets/6b5c1dda-faf7-4c55-8dde-c6c0b8f5a579" />
+
 
